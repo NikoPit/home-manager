@@ -1,0 +1,7 @@
+[shortcuts]
+space-1 = "alt-1"
+
+[transition]
+duration-ms = 240
+easing = "easeInOut"
+effect = "slide"
