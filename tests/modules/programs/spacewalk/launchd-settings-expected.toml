@@ -1,0 +1,11 @@
+[advanced]
+launch-at-login = false
+
+[shortcuts]
+space-1 = "alt-1"
+space-9 = "alt-9"
+
+[transition]
+duration-ms = 240
+easing = "easeInOut"
+effect = "slide"
