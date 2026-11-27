@@ -446,6 +446,11 @@
     github = "natecox";
     githubId = 2782695;
   };
+  NikoPit = {
+    name = "NikoPit";
+    github = "NikoPit";
+    githubId = 138299204;
+  };
   NitroSniper = {
     name = "Nitro Sniper";
     email = "nitro@ortin.dev";
